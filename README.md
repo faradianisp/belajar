@@ -1,4 +1,4 @@
-# Belajar Sabtu Pagi
+# Belajar Sabtu Pagi Sekali
 Ini adalah repository untuk belajar coding Sabtu Pagi
 Umumnya kita belajar python.
 
