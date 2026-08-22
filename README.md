@@ -13,11 +13,8 @@ Berikutnya
 
 ## 10:19
 - Saya adalah Akbar
-
 - Haiii
-
 # tambahan  
-yuhuhuu
-
+yuhuhuu=
 # line baru
 Monic tambah
